@@ -1,0 +1,117 @@
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe.config
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.pdb
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.AssemblyReference.cache
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.Properties.Resources.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.GenerateResource.cache
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.CoreCompileInputs.cache
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.exe
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.pdb
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fEmployee.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fManager.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fLogin.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDentist.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fMedicine.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fPatient.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fStockMedicine.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInfoPatient.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicine.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateWorkSchedule.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatient.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatientType.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateAppointment.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateTreat.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAddTooth.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseTreatPlan.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fShowTreatPlan.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreatePay.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReceiveMoney.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryPay.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDetailPay.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAppointment.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInputInfoPatient.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateTreat.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateAppointment.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReport.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fRequestCheck.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseMedicineType.resources
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicineApp.resources
+D:\Download\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe.config
+D:\Download\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe
+D:\Download\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.pdb
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.AssemblyReference.cache
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAppointment.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseMedicineType.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreatePay.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAddTooth.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatient.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatientType.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseTreatPlan.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateAppointment.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateTreat.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDentist.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDetailPay.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fEmployee.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicine.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInfoPatient.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInputInfoPatient.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fManager.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fLogin.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fMedicine.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fPatient.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReceiveMoney.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReport.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fStockMedicine.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateTreat.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateWorkSchedule.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryPay.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicineApp.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.Properties.Resources.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fShowTreatPlan.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateAppointment.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fRequestCheck.resources
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.GenerateResource.cache
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.CoreCompileInputs.cache
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.exe
+D:\Download\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.pdb
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe.config
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.exe
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\bin\Debug\Winform PhongKham.pdb
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.AssemblyReference.cache
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAppointment.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseMedicineType.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreatePay.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fAddTooth.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatient.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChoosePatientType.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fChooseTreatPlan.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateAppointment.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fCreateTreat.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDentist.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fDetailPay.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fEmployee.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicine.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInfoPatient.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fInputInfoPatient.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fManager.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fLogin.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fMedicine.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fPatient.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReceiveMoney.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fReport.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fStockMedicine.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateTreat.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateWorkSchedule.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryPay.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fHistoryMedicineApp.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.Properties.Resources.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fShowTreatPlan.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fUpdateAppointment.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform_PhongKham.fRequestCheck.resources
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.GenerateResource.cache
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.csproj.CoreCompileInputs.cache
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.exe
+D:\Download\21120405_21120428_21120435_21120493\Winform PhongKham\Winform PhongKham\obj\Debug\Winform PhongKham.pdb
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\fManager.resx
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\fManager.cs
+D:\Advanced Database\Winform PhongKham\Winform PhongKham\bin\Debug\fManager.Designer.cs

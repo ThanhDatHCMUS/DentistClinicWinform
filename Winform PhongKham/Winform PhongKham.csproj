@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB726CFC-9E91-44A6-B294-40AE15A5E9E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Winform_PhongKham</RootNamespace>
+    <AssemblyName>Winform PhongKham</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\CreatePayDAO.cs" />
+    <Compile Include="DAO\HistoryMedicineAppDAO.cs" />
+    <Compile Include="DAO\InputInfoPatientDAO.cs" />
+    <Compile Include="DAO\LoadAppointmentDAO.cs" />
+    <Compile Include="DAO\LoadDetailPayDAO.cs" />
+    <Compile Include="DAO\LoadHistoryPayDAO.cs" />
+    <Compile Include="DAO\ReportDAO.cs" />
+    <Compile Include="DAO\RequestCheckDAO.cs" />
+    <Compile Include="DAO\UpdateAppoinmentDAO.cs" />
+    <Compile Include="DAO\UpdateTreatDAO.cs" />
+    <Compile Include="DTO\Appointment.cs" />
+    <Compile Include="DTO\Payment.cs" />
+    <Compile Include="fAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAppointment.Designer.cs">
+      <DependentUpon>fAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fChooseMedicineType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChooseMedicineType.Designer.cs">
+      <DependentUpon>fChooseMedicineType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCreatePay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCreatePay.Designer.cs">
+      <DependentUpon>fCreatePay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\CreateAppointmentDAO.cs" />
+    <Compile Include="DAO\CreateTreatDAO.cs" />
+    <Compile Include="DAO\LoadDatePlanTreatDAO.cs" />
+    <Compile Include="DAO\LoadInfoPlanTreatDAO.cs" />
+    <Compile Include="DTO\TreatPlan.cs" />
+    <Compile Include="fAddTooth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAddTooth.Designer.cs">
+      <DependentUpon>fAddTooth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fChoosePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChoosePatient.Designer.cs">
+      <DependentUpon>fChoosePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fChoosePatientType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChoosePatientType.Designer.cs">
+      <DependentUpon>fChoosePatientType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\HistoryMedicineDAO.cs" />
+    <Compile Include="DAO\LoadDentistDAO.cs" />
+    <Compile Include="DAO\LoadEmployeeDAO.cs" />
+    <Compile Include="DAO\LoadInfoMedicineDAO.cs" />
+    <Compile Include="DAO\LoadInfoPatientDAO.cs" />
+    <Compile Include="DAO\LoadMedicineDAO.cs" />
+    <Compile Include="DAO\LoadPatientDAO.cs" />
+    <Compile Include="DAO\UpdateWorkScheduleDAO.cs" />
+    <Compile Include="DTO\Const.cs" />
+    <Compile Include="DTO\Dentist.cs" />
+    <Compile Include="DTO\Human.cs" />
+    <Compile Include="DTO\Medicine.cs" />
+    <Compile Include="DTO\StockMedicine.cs" />
+    <Compile Include="DTO\TreatMedicine.cs" />
+    <Compile Include="fChooseTreatPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChooseTreatPlan.Designer.cs">
+      <DependentUpon>fChooseTreatPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCreateAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCreateAppointment.Designer.cs">
+      <DependentUpon>fCreateAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCreateTreat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCreateTreat.Designer.cs">
+      <DependentUpon>fCreateTreat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDentist.Designer.cs">
+      <DependentUpon>fDentist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDetailPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDetailPay.Designer.cs">
+      <DependentUpon>fDetailPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fEmployee.Designer.cs">
+      <DependentUpon>fEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHistoryMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHistoryMedicine.Designer.cs">
+      <DependentUpon>fHistoryMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fInfoPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInfoPatient.Designer.cs">
+      <DependentUpon>fInfoPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fInputInfoPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInputInfoPatient.Designer.cs">
+      <DependentUpon>fInputInfoPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fManager.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="fManager.Designer.cs">
+      <DependentUpon>fManager.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMedicine.Designer.cs">
+      <DependentUpon>fMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPatient.Designer.cs">
+      <DependentUpon>fPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fReceiveMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReceiveMoney.Designer.cs">
+      <DependentUpon>fReceiveMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReport.Designer.cs">
+      <DependentUpon>fReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStockMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStockMedicine.Designer.cs">
+      <DependentUpon>fStockMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUpdateTreat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUpdateTreat.Designer.cs">
+      <DependentUpon>fUpdateTreat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUpdateWorkSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUpdateWorkSchedule.Designer.cs">
+      <DependentUpon>fUpdateWorkSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHistoryPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHistoryPay.Designer.cs">
+      <DependentUpon>fHistoryPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHistoryMedicineApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHistoryMedicineApp.Designer.cs">
+      <DependentUpon>fHistoryMedicineApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="fShowTreatPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fShowTreatPlan.Designer.cs">
+      <DependentUpon>fShowTreatPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUpdateAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUpdateAppointment.Designer.cs">
+      <DependentUpon>fUpdateAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fRequestCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRequestCheck.Designer.cs">
+      <DependentUpon>fRequestCheck.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fAppointment.resx">
+      <DependentUpon>fAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChooseMedicineType.resx">
+      <DependentUpon>fChooseMedicineType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCreatePay.resx">
+      <DependentUpon>fCreatePay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAddTooth.resx">
+      <DependentUpon>fAddTooth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChoosePatient.resx">
+      <DependentUpon>fChoosePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChoosePatientType.resx">
+      <DependentUpon>fChoosePatientType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChooseTreatPlan.resx">
+      <DependentUpon>fChooseTreatPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCreateAppointment.resx">
+      <DependentUpon>fCreateAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCreateTreat.resx">
+      <DependentUpon>fCreateTreat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDentist.resx">
+      <DependentUpon>fDentist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDetailPay.resx">
+      <DependentUpon>fDetailPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fEmployee.resx">
+      <DependentUpon>fEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHistoryMedicine.resx">
+      <DependentUpon>fHistoryMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fInfoPatient.resx">
+      <DependentUpon>fInfoPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fInputInfoPatient.resx">
+      <DependentUpon>fInputInfoPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fManager.resx">
+      <DependentUpon>fManager.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMedicine.resx">
+      <DependentUpon>fMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPatient.resx">
+      <DependentUpon>fPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReceiveMoney.resx">
+      <DependentUpon>fReceiveMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReport.resx">
+      <DependentUpon>fReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStockMedicine.resx">
+      <DependentUpon>fStockMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUpdateTreat.resx">
+      <DependentUpon>fUpdateTreat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUpdateWorkSchedule.resx">
+      <DependentUpon>fUpdateWorkSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHistoryPay.resx">
+      <DependentUpon>fHistoryPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHistoryMedicineApp.resx">
+      <DependentUpon>fHistoryMedicineApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fShowTreatPlan.resx">
+      <DependentUpon>fShowTreatPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUpdateAppointment.resx">
+      <DependentUpon>fUpdateAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRequestCheck.resx">
+      <DependentUpon>fRequestCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
